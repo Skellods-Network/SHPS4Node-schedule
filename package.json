@@ -1,0 +1,10 @@
+{
+    "name": "SHPS4Node-schedule",
+    "version": "1.0.0",
+    "description": "Task Scheduler used by SHPS",
+    "author": "Marco Alka <me@marco-alka.de>",
+    "main": "index-schedule.js",
+    "dependencies": {
+        "node-mod-load": "^2.1.0"
+    }
+}
